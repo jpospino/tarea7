@@ -1,0 +1,6 @@
+https://young-caverns-15248.herokuapp.com/calculoCorrelacionSignificancia?tablaValor=[{ programID: 1, estimatedProxySize:177, actualAddedModifiedSize:124, actualDevelopmentTime:382.0}
+,{ programID: 2, estimatedProxySize:241, actualAddedModifiedSize:247, actualDevelopmentTime:877.0}
+,{ programID: 3, estimatedProxySize:65, actualAddedModifiedSize:144, actualDevelopmentTime:203.0}
+,{ programID: 4, estimatedProxySize:86, actualAddedModifiedSize:130, actualDevelopmentTime:373.0}
+,{ programID: 5, estimatedProxySize:12, actualAddedModifiedSize:16, actualDevelopmentTime:147.0}]
+&tamanhoProxy=386&tipoCalculo=EPSAAM
